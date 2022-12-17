@@ -13,7 +13,7 @@ public class d1debugWhile1 {
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
 		int num =0;
-		int i = 1;
+		int i = 1,o;
 		
 		//solicito por pantalla numero a calcular la tabla
 		System.out.print("Entra numero: ");
